@@ -100,9 +100,9 @@ Retail-Performance-and-Profitability-Analysis/
 
 **Dataset:** Sample Superstore
 
-**Source:** Add the original dataset download URL before publishing the repository.
+**Source:** [Superstore Dataset Final — Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-The dataset's source and licence should be verified before redistributing the file.
+The dataset contains fictional retail transaction data, including order dates, customer segments, product categories, sales, discounts, and profit.
 
 ## Author
 
